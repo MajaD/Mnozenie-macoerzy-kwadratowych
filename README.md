@@ -84,3 +84,4 @@ Mnozenie-macierzy-kwadratowych
 82.        n=n+1;
 83.    }
 84.    }
+
