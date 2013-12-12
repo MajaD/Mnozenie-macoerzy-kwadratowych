@@ -1,7 +1,6 @@
 Mnozenie-macierzy-kwadratowych
 ==============================
 1.#include<stdio.h>
-
 2.int main()
 
 3. {
