@@ -3,6 +3,7 @@ Mnozenie-macierzy-kwadratowych
 1.#include<stdio.h>
 
 2.int main()
+
 3. {
 4.    int tab1[25][25];
 5.    int tab2[25][25];
